@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: vivek65666/my-app:0797326b085b8b6051441b358e14cdc884431027
+        image: vivek65666/my-app:739a8db22e0bec92500451eafaefd64ea759b689
